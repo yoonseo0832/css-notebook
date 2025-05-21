@@ -5,3 +5,6 @@
   align-items: center; 
   justify-content: center;
 ```
+- display: flex: 내부 아이콘을 flexbox로 정렬합니다.
+- align-items: center: 수직 중앙 정렬합니다.
+- justify-content: center: 수평 중앙 정렬합니다.
